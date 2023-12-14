@@ -1,0 +1,160 @@
+{
+  "cities": [
+    {
+      "cityName": "Les Valls de Valira",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-12-12T01:26:03.359Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45588764197166",
+        "lng": "1.56005859375"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Lumbier",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-12T01:35:22.053Z",
+      "notes": "",
+      "position": {
+        "lat": "42.65012181368025",
+        "lng": "-1.2744140625000002"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "A Peroxa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-12T11:26:27.549Z",
+      "notes": "",
+      "position": {
+        "lat": "42.439674178149446",
+        "lng": "-7.844238281250001"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Bordj Badji Mokhtar",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-12-12T11:33:33.149Z",
+      "notes": "",
+      "position": {
+        "lat": "24.906367237907997",
+        "lng": "-3.4277343750000004"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Enguidanos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-12T11:53:42.601Z",
+      "notes": "",
+      "position": {
+        "lat": "39.690280594818034",
+        "lng": "-1.6259765625"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Montijo",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-12-12T15:36:34.563Z",
+      "notes": "",
+      "position": {
+        "lat": "38.51541123094829",
+        "lng": "-9.450421874999993"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Magnac-Laval",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-13T14:59:37.165Z",
+      "notes": "",
+      "position": {
+        "lat": "46.22545288226939",
+        "lng": "1.2084960937500002"
+      },
+      "id": 98443217
+    },
+    {
+      "cityName": "Saligny-sur-Roudon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-13T15:00:30.597Z",
+      "notes": "",
+      "position": {
+        "lat": "46.437856895024204",
+        "lng": "3.7792968750000004"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Varades",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-13T15:01:12.601Z",
+      "notes": "teste",
+      "position": {
+        "lat": "47.45780853075031",
+        "lng": "-0.9667968750000001"
+      },
+      "id": 98443219
+    },
+    {
+      "cityName": "Champigny-sur-Marne",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-13T15:40:17.203Z",
+      "notes": "",
+      "position": {
+        "lat": "48.821332549646655",
+        "lng": "2.5488281250000004"
+      },
+      "id": 98443220
+    },
+    {
+      "cityName": "Tollaincourt",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-13T15:49:06.720Z",
+      "notes": "",
+      "position": {
+        "lat": "48.09275716032736",
+        "lng": "5.690917968750001"
+      },
+      "id": 98443221
+    },
+    {
+      "cityName": "Nasbinals",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-13T15:50:13.384Z",
+      "notes": "",
+      "position": {
+        "lat": "44.60611274517393",
+        "lng": "3.0541992187500004"
+      },
+      "id": 98443222
+    },
+    {
+      "cityName": "Cabezas del Pozo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-13T17:08:48.471Z",
+      "notes": "",
+      "position": {
+        "lat": "41.0130657870063",
+        "lng": "-4.965820312500001"
+      },
+      "id": 98443223
+    }
+  ]
+}
